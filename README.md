@@ -55,9 +55,7 @@ The final test set results (after threshold tuning) are summarised below. **XGBo
 | Random Forest | 0.7914 | 0.85 | 0.74 |
 | MLP | 0.7900 | 0.79 | 0.79 |
 | Logistic Regression | 0.7487 | 0.70 | 0.81 |
-| Gaussian Naive Bayes | 0.6228 | – | – |
 
-> **Note**: RBF SVM validation F1 was ~0.6603 (not computed on test due to runtime).
 
 ## Why F1‑Score Was Used
 
